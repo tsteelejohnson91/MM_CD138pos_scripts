@@ -8,3 +8,5 @@ This file contains the script used to integrate all 49 patient samples and clust
 # Individual Sample Multiomic Analysis
 # File: indivSampleMultimoePipeline.R
 This file contains the script to process each of the samples individually.
+
+# More details will be added as additional scripts are uploaded
